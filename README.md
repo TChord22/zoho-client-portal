@@ -5,3 +5,10 @@ Please note that this is based on the Beta Version of the current portal. Feel f
 ## The Setup
 
 This setup would assume you have already figured out how to create application on Zoho Creator. If not, feel free to check YouTube or contact zoho support to find out. As this is not really a beginners process.
+
+1. Make sure that you have the following connections made in your Zoho Creator setup
+   - Zoho CRM
+   - Zoho Desk
+   - Zoho Creator
+Feel free to use Zoho Auth Connection to connect with Zoho Creator & Desk. CRM is provided as out of the box. Creator and Desk should be too, however in this use case we used Zoho Auth.
+2. 
