@@ -10,5 +10,5 @@ This setup would assume you have already figured out how to create application o
    - Zoho CRM
    - Zoho Desk
    - Zoho Creator
-   Feel free to use Zoho Auth Connection to connect with Zoho Creator & Desk. CRM is provided as out of the box. Creator and Desk should be too, however in this use case we used Zoho Auth.
+Feel free to use Zoho Auth Connection to connect with Zoho Creator & Desk. CRM is provided as out of the box. Creator and Desk should be too, however in this use case we used Zoho Auth.
 2. 
