@@ -9,6 +9,6 @@ This setup would assume you have already figured out how to create application o
 1. Make sure that you have the following connections made in your Zoho Creator setup
    - Zoho CRM
    - Zoho Desk
-   - Zoho Creator<br>
+   - Zoho Creator<br><br>
 Feel free to use Zoho Auth Connection to connect with Zoho Creator & Desk. CRM is provided as out of the box. Creator and Desk should be too, however in this use case we used Zoho Auth.
 2. 
