@@ -15,8 +15,8 @@ Feel free to use Zoho Auth Connection to connect with Zoho Creator & Desk. CRM i
 Please make sure to use the apps names "creator", "desk" and "crm" as your connection, as this will be so much easier to remember when setting up your invoke URL.
 
 2. In this project we have built the following.
-  - 2 Forms
-  - 6 Pages
+     - 2 Forms
+     - 6 Pages
   
 You can add whichever in your setup, but our setup covers 1 form for support, 1 form for project briefing, pages for quotes, invoices, profile, and 2 pages for the forms to display on.
 
