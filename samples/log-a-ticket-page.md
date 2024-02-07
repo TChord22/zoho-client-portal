@@ -1,6 +1,8 @@
-# Form Pages
+# Log a Ticket Landing Page
 
 The below is sample code for a standard form landing page. You can make adjustments as you see fit. When you copy and paste your code inside of the HTML widget of Zoho Creator. On the right hand side you should see quick drag and drop functions. The very top you should have access to the forms quick function which you can place in the comment added below the code.
+
+To push this forms specific data, you will need to trigger a workflow upon form submission. You can grab the the sample script from the workflow.md file here.
 
 ## Provided Code Snippet:
 
