@@ -9,12 +9,14 @@ This setup would assume you have already figured out how to create application o
 1. Make sure that you have the following connections made in your Zoho Creator setup
    - Zoho CRM
    - Zoho Desk
-   - Zoho Creator<br><br>
+   - Zoho Creator
+  
 Feel free to use Zoho Auth Connection to connect with Zoho Creator & Desk. CRM is provided as out of the box. Creator and Desk should be too, however in this use case we used Zoho Auth.
 Please make sure to use the apps names "creator", "desk" and "crm" as your connection, as this will be so much easier to remember when setting up your invoke URL.
 2. In this project we have the following
   - 2 Forms
-  - 6 Pages<br><br>
+  - 6 Pages
+  
 You can add whichever in your setup, but our setup covers 1 form for support, 1 form for project briefing, pages for quotes, invoices, profile, and 2 pages for the forms to display on.
 
 The code provided and scripts can be adjusted according to your specific requirements. This is just basic sample coding for each page or workflow within Zoho Creator.
