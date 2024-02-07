@@ -1,8 +1,6 @@
-## Log a ticket page
+# Form Pages
 
-# Zoho Creator Page Explanation
-
-This Markdown document provides an explanation of the provided code snippet for a Zoho Creator page. The code is meant to create a web page within a Zoho Creator app. The page consists of a header section with a hero banner image and a welcome message, followed by a form section for logging a ticket.
+The below is sample code for a standard form landing page. You can make adjustments as you see fit. When you copy and paste your code inside of the HTML widget of Zoho Creator. On the right hand side you should see quick drag and drop functions. The very top you should have access to the forms quick function which you can place in the comment added below the code.
 
 ## Provided Code Snippet:
 
@@ -93,8 +91,8 @@ This Markdown document provides an explanation of the provided code snippet for 
 		object-fit: cover;
 		object-position: bottom;
 	}
-	form[name="Support_Ticket"].label-inplace {
-    width: auto !important;
+	/* form[name="Your_Forms_Name"].label-inplace {
+    width: auto !important; */
 }
 	.welcome-header {
     display: flex;
@@ -130,22 +128,21 @@ i#home-ico:hover {
 	</style>
 	<section id="header">
 	<div class="hero-banner">
-		<img src="https://res.cloudinary.com/dugqkshbe/image/upload/v1698059855/Client%20Portal/RHi-Banner-Image_byk3b3.jpg" width="100%">
+		<img src="your_banner_image" width="100%">
 	</div>
 <div class="welcome-message">
 <div class="welcome-header">
-	<i class="fa-regular fa-life-ring"><h1>Log a ticket
+	<i class="fa-regular fa-life-ring"><h1>Title
 </h1></i>
-<a href="/#Home"><i elname="sectionIcon" class="zc-li-solid ui-1-home-minimal" id="home-ico" title="Home"> </i></a>
+<a href="your-page-url"><i elname="sectionIcon" class="zc-li-solid ui-1-home-minimal" id="home-ico" title="Home"> </i></a>
 </div>
-<p>When you submit a ticket, please allow 48 hours for a response. This ensures that we have the time needed to investigate the issue thoroughly and provide you with the best solution and support.</p></div>
+<p>Paragraph</p></div>
 	</section>
 	<section id="body">
 	<div class="rowBlocks">
-	<div elName='zc-component' formLinkName='Support_Ticket' params='zc_Header=false&amp;zc_SuccMsg=Data Added Successfully!&amp;zc_SubmitVal=Submit&amp;zc_ResetVal=Reset'>Loading Form...</div>
+	<!-- Add your form widget here-->
 	</section>
 <%
 
 }%>
 ```
-sdkdf
