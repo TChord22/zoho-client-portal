@@ -26,7 +26,7 @@ The code provided and scripts can be adjusted according to your specific require
 
 Right, so you should by now have your pages created and forms. For each of pages, we used the HTML widget, which provided us with the option to customize the look and feel of our portal. I would love to know if you are making adjustments to the code in order to either better what has been provided or to try think outside the box.
 
-1. Support Form Page
+1. [Log a Ticket Page](/samples/log-a-ticket-page.md)
 2. Breifing Form Page
 3. Quotes Page
 4. Invoices Page
